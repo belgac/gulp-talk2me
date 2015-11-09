@@ -34,7 +34,7 @@ var talk2me = new gulpTalk2me(packageInfo,taskList)
 ```
 
 you can now use the functions from the module:
-* Greeting 
+* [Greeting](#greeting) 
 
 ##Functions
 
