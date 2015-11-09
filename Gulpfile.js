@@ -16,7 +16,7 @@ gulp.task('test',function(){
 })
 
 gulp.task('build',function(callback){
-  runSequence('test','delete','copy',callback);
+  runSequence('delete','copy',callback);
 })
 
 gulp.task('copy',function(){
