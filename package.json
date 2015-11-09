@@ -4,7 +4,7 @@
   "main": "dist/app.js",
   "scripts": {
     "test": "gulp test",
-    "postinstall" : "gulp build",
+    "postinstall": "gulp build",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
@@ -34,5 +34,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
   }
 }
