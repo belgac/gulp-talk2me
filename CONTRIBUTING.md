@@ -129,7 +129,7 @@ To ensure consistency throughout the source code, keep these rules in mind as yo
 
 ## <a name="commit"></a> Git Commit Guidelines
 
-We have very precise rules over how our git commit messages can be formatted.  This leads to **more
+We have very precise rules over how our git commit messages can be formatted dollowing the [angular commit message convention](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#).  This leads to **more
 readable messages** that are easy to follow when looking through the **project history**.  But also,
 we use the git commit messages to **generate the gulp-talk2me change log**.
 
