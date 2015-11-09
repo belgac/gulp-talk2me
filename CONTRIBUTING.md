@@ -190,5 +190,7 @@ reference GitHub issues that this commit **Closes**.
 
 **Breaking Changes** should start with the word `BREAKING CHANGE:` with a space or two newlines. The rest of the commit message is then used for this.
 
-A detailed explanation can be found in this [document][commit-message-format].
+
+
+This Contributing guide is inspired by the one of angularJS that can be found [here](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md)
 
